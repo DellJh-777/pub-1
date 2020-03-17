@@ -1,7 +1,9 @@
 #### [origin](https://osbb-gr-44.web.app/#/)
 <h5 align="center">
   <br>
-     <div class="home-logo-200"></div>
+     <div class="row flex-center">
+       <div class="home-logo-200"></div>
+     </div>
   <br>
    Головна сторінка ОСББ
   <br>
