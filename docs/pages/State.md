@@ -2,7 +2,7 @@
 
 <h5 align="center">
   <br>
-     <div class="state-logo-200"></div>
+     <div class="row flex-center"><div class="state-logo-200"></div></div>
    <br>
    Cтан будинку
   <br>
