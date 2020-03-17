@@ -22,10 +22,11 @@
 подій, результатів зборів зі сторони адміністрації
 а також обговорення з мешканцями.*
 :::
-    <div
-      type="disqus"
-      title="SITE_NAME Disclaimer"
-      description="Відмова від відповідальності"
-      canonical="/#/events"
-      shortname="osbb-gr-44"
-    ></div>
+
+<div
+  type="disqus"
+  title="SITE_NAME Disclaimer"
+  description="Відмова від відповідальності"
+  canonical="/#/events"
+  shortname="osbb-gr-44"
+></div>
