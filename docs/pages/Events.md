@@ -25,6 +25,7 @@
 
 <div
   type="disqus"
+  isOpen="true"
   title="SITE_NAME Disclaimer"
   description="Відмова від відповідальності"
   canonical="/#/events"
