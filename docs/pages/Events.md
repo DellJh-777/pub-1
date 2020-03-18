@@ -25,7 +25,7 @@
 
 <div
   type="disqus"
-  isopen="true"
+  isopen="false"
   title="Основні події"
   description="Обговорення подій з мешканцями"
   canonical="/#/events"
