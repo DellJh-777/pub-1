@@ -25,9 +25,9 @@
 
 <div
   type="disqus"
-  isopen="false"
-  title="SITE_NAME Disclaimer"
-  description="Відмова від відповідальності"
+  isopen="true"
+  title="Основні події"
+  description="Обговорення подій з мешканцями"
   canonical="/#/events"
   shortname="osbb-gr-44"
 ></div>
